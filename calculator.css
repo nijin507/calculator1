@@ -54,12 +54,12 @@ form .display input{
 @media (min-width:1080px){
  
     #uu{
-        width: 12cm;
+        width: 1080px;
 
     }
 }
 @media(min-height:2340px){
     #uu{
-        height: 700px;
+        height: 2340px;
     }
 }
