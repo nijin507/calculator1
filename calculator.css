@@ -51,14 +51,14 @@ form .display input{
     font-size: 30px;
 }
 
-@media (min-width:1080px){
+@media (min-width:481px){
  
     #uu{
         width: 1080px;
 
     }
 }
-@media(min-height:2340px){
+@media(min-height:548px){
     #uu{
         height: 2340px;
     }
